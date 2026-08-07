@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+
+# Data (download from Kaggle; use make_synthetic_smoketest.py for local testing)
+data/*.csv
+
+# OS
+.DS_Store
