@@ -6,9 +6,13 @@ Predict whether a Lending Club borrower will **charge off** or **fully repay**, 
 
 **Demo video (1 min 36 sec):** [loan-default-demo.mp4](demo/loan-default-demo.mp4)
 
-Direct file (use this URL in a form field):
+Playable page:
 
-`https://media.githubusercontent.com/media/AnuragBand-07/loan-default-risk-prediction/main/demo/loan-default-demo.mp4`
+`https://github.com/AnuragBand-07/loan-default-risk-prediction/blob/main/demo/loan-default-demo.mp4`
+
+Direct file:
+
+`https://raw.githubusercontent.com/AnuragBand-07/loan-default-risk-prediction/main/demo/loan-default-demo.mp4`
 
 ## Problem
 
